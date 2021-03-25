@@ -24,6 +24,10 @@ public void employeeAddress() {
 	System.out.println("Greens Technology, Perumbakkam");
 
 }
+private void employeeVenue() {
+	// TODO Auto-generated method stub
+
+}
 public static void main(String[] args) {
 	employee o = new employee();
 	o.employeeId();
@@ -33,4 +37,5 @@ public static void main(String[] args) {
 	o.employeeEmail();
 	o.employeeAddress();
 }
+
 }
